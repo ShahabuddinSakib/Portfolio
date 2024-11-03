@@ -1,8 +1,20 @@
-Data Analyst
-Technical Skills: Python, SQL, Pandas, Numpy
-Education
-B.Sc , Computer Science and Engineering | BRAC University (2021-2024)
+## Data Analyst
 
-Project:
-Sentiment Analysis
+#### Skills: Python, Django, MongoDB, MySQL, Pandas, Numpy
+
+## Education		        		
+#### B.Sc., Computer Science and Engineering | BRAC University
+
+## Work Experience
+****
+- 
+
+
+## Projects
+### 1. Sentiment Analysis
+[Link](Enter Link)
+
+
+## Publications
+1.
 
