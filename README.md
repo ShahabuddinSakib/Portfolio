@@ -1,4 +1,4 @@
-# 🌐 [Shahabuddin Sakib]'s Portfolio
+# 🌐 Shahabuddin Sakib's Portfolio
 
 Hello, and welcome to my portfolio! I'm a passionate **Data Science** and **Machine Learning** enthusiast with a foundation in **Python** and **Django** for web development. I’m currently a final-semester Computer Science student, and my journey is focused on transforming data into insights and developing intelligent applications.
 
@@ -38,7 +38,6 @@ I am deeply invested in the fields of **Data Science** and **Artificial Intellig
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahabuddin-sakib-2098a2228/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](shahabuddinsakib2001@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/itsmeshahabuddin)
 
 
