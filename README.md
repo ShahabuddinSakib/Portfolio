@@ -11,7 +11,7 @@
 
 
 ## Projects
-### 1. Sentiment Analysis
+### 1. Movie Review Classification
 [Link](https://github.com/ShahabuddinSakib/Movie-Review-Classification)
 
 
